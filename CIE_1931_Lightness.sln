@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CIE_1931_Lightness", "CIE_1931_Lightness\CIE_1931_Lightness.csproj", "{BC63CCC1-08D0-4983-861F-6E1256508A9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC63CCC1-08D0-4983-861F-6E1256508A9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC63CCC1-08D0-4983-861F-6E1256508A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC63CCC1-08D0-4983-861F-6E1256508A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC63CCC1-08D0-4983-861F-6E1256508A9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D682007-B66A-46F6-9D22-FA99E57FD6F3}
+	EndGlobalSection
+EndGlobal
